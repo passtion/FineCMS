@@ -52,7 +52,7 @@ define ('MSG_ERROR', 4);
  * Menu types
  */
 
-define ('NAVIGATOR', 1);   // menu górne
+define ('NAVIGATOR', 1);   // menu gÃ³rne
 define ('CATEGORIES', 2);  // menu boczne
 
 /*
@@ -66,5 +66,7 @@ define ('PAGE_SUBTITLE', 'Ultra Lite CMS');             // main subtitle
 
 /* Categories: */
 define ('DEFAULT_LINK', '{_default_category_link_}');   // new category link
+/* Set Domain name*/
 
+define('DOMAIN_NAME','localhost');
 ?>
